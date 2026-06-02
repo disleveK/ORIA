@@ -1,0 +1,2 @@
+# Configuration Scripts
+This directory will contain Python scripts and YAML files required to configure Snowflake, Cortex Search, and Agents.
