@@ -23,6 +23,11 @@
    ```
    "What documents are available?"
    ```
+3. Execute the end-to-end workflow:
+   ```bash
+   python src/workflow/process_documents.py
+   ```
+   - Place your PDF/DOCX files in the `data/` directory prior to execution.
 
 ## Notes
 - Detailed instructions on Openflow and Cortex configurations will follow.
